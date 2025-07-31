@@ -12,7 +12,7 @@ This sevrice sends all data directly to Riot Games servers, and therefore I cann
 
 ---
 
-As of 1/3/23, This works. If it doesnt when you use it, please create an issue and will I try to fix it.
+As of 6/30/25, This does NOT works. It is a work in progress.
 
 See/Star on [Github](https://github.com/voltadigital/ValorantStoreChecker)
 
